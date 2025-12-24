@@ -30,9 +30,7 @@ This project demonstrates clean UI design, smooth navigation, and a mobile-first
 ## 🌐 Live Demo
 
 🔗 **Live URL:**  
-[https://react-assessment-popx-ui-by-aayushshaw.vercel.app/]
-
-> Replace the link above with your deployed Vercel URL.
+https://react-assessment-popx-ui-by-aayushshaw.vercel.app/
 
 ---
 
@@ -120,3 +118,4 @@ npm run preview
 ### ⭐ Support
 
 If you found this project useful, consider giving it a ⭐ on GitHub.
+
