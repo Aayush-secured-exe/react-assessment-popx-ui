@@ -99,13 +99,13 @@ npm run build
 npm run preview
 ```
 
-### 📌 Notes
+## 📌 Notes
 
 - This project focuses on frontend UI/UX implementation
 - No backend or API integration is included
 - Built as part of a frontend technical assessment
----
-### 👨‍💻 Author
+
+## 👨‍💻 Author
 
 **Aayush Shaw**
 
@@ -115,8 +115,6 @@ npm run preview
 
 **LinkedIn:** [aayushshaw](https://www.linkedin.com/in/aayushshaw/)
 
-### ⭐ Support
+## ⭐ Support
 
 If you found this project useful, consider giving it a ⭐ on GitHub.
-
-
