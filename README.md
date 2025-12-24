@@ -104,7 +104,7 @@ npm run preview
 - This project focuses on frontend UI/UX implementation
 - No backend or API integration is included
 - Built as part of a frontend technical assessment
-
+---
 ### 👨‍💻 Author
 
 **Aayush Shaw**
@@ -118,4 +118,5 @@ npm run preview
 ### ⭐ Support
 
 If you found this project useful, consider giving it a ⭐ on GitHub.
+
 
